@@ -1,4 +1,4 @@
-# COMP376_Mario64_quiz
+# Mario 64 Quiz done in 24hrs for COMP376 at Concordia University
 Had to recreate some features found in Mario 64 (about 10 hours of work)
 
 Models were provided by the school.
